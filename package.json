@@ -1,0 +1,25 @@
+{
+  "name": "karma-edge-launcher",
+  "version": "0.0.0",
+  "description": "A Karma plugin. Launcher for Microsoft Edge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/karma-edge-launcher.git"
+  },
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "karma-launcher",
+    "edge"
+  ],
+  "author": "Daijiro Wachi <daijiro.wachi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/karma-edge-launcher/issues"
+  },
+  "homepage": "https://github.com/watilde/karma-edge-launcher#readme"
+}
